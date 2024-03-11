@@ -4,7 +4,9 @@ Project for the course "Advanced Deep-Learning", in the 3rd year of ESPCI, 2024.
 - This [notebook](./sleep-edf-data.ipynb) decribes the dataset, provides links and explanations
 - The data are prepared with this [script](prepare_physionet.py)
 - The prepared data can be downloaded from [this drive](https://drive.google.com/drive/folders/176qhDmYUDzQg5yrv-IPzkpKSCR3Jv083?usp=sharing).
-- Look at [this notebook](./sleep-edf-npz.ipynb) to play with the data.
+- Look at [this notebook](./sleep-edf-npz.ipynb) to play with the raw data and create data esay to use.
+- A pickle is available on the drive
+  
      
 To better start with, the data are pre-processed. In the directory `5-cassette` you will find the data subsampled at 20 kHZ, segmented in segments of 30s each. It could be easier to start with only the cassette part and then see how telemetry can be included in the study. 
 
