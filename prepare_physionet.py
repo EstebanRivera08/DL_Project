@@ -50,7 +50,7 @@ ann2label = {
     "Movement time": 5
 }
 
-EPOCH_SEC_SIZE = 30
+EPOCH_SEC_SIZE = 30 #30 seconds 
 
 
 def main():
