@@ -1,7 +1,7 @@
 # adl24-sleep-stage
 Project for the course "Advanced Deep-Learning", in the 3rd year of ESPCI, 2024.
 
-- This [notebook](./sleep-edf-data.ipynb) decribes the dataset, provides links and explanations
+- Thiss [notebook](./sleep-edf-data.ipynb) decribes the dataset, provides links and explanations
 - The data are prepared with this [script](prepare_physionet.py)
 - The prepared data can be downloaded from [this drive](https://drive.google.com/drive/folders/176qhDmYUDzQg5yrv-IPzkpKSCR3Jv083?usp=sharing).
 - Look at [this notebook](./sleep-edf-npz.ipynb) to play with the raw data and create data esay to use.
